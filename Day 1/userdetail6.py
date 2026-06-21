@@ -1,0 +1,13 @@
+"""6. Print User Details
+Take input:
+- Name
+- Age
+- City
+Display them properly."""
+
+name=input("enter your name ")
+age=int(input("enter your age "))
+city=input("enter your city ")
+print(".Name" , name)
+print(".Age" , age)
+print(".City" , city)
